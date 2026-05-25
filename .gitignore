@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local image uploads (keep folder, ignore image files)
+uploaded_images/*
+!uploaded_images/.gitkeep

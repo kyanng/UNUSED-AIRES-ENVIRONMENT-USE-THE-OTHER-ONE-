@@ -1,3 +1,2 @@
 requests
-Flask
-dotenv
+python-dotenv
